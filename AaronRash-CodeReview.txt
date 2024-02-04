@@ -1,0 +1,9 @@
+I would reccomend adding more comments. While I can figure out what your code does, it would greatly speed up the process if some sections had explainations, or if methods were labeled. I also find that commenting my code actually helps me learn and understand my own code better. 
+
+The radio buttons were a good choice, it organizes the form, and adds some error handling.
+
+I would also reccomend organizing the code a little differently. For example: the 'private void' methods can be kept as-is, but re-ordered. So either group the methods by 'Product/Inventory/Unit Search' or perhaps group them by radio buttons & search buttons.
+
+Lastly, I used DataGridView instead of the listbox for the results. I was having the same issue with the text being missaligned, and found the DataGridView solved that for me, and provided some extra (optional) useful settings.
+
+These are little things, but will pay dividends for when other people look at your code + improve readability.
