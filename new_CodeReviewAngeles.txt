@@ -1,0 +1,7 @@
+Code Review for Andrew :)
+
+I  noticed the 'Inventory Search Group Box', and the 'clear button' is not functioning. It is important to make sure that every field has to be reset and handled by the clear button. It is also important to maintain standard naming practices for variables. For variables and methods, for instance, use CamelCase uniformly across the code.
+
+I think improving the Error method is important so that it gives the user more precise instructions on what needs to be entered or corrected. This can enhance the user experience by providing precise instructions on how to resolve the issue. The author should consider separating the database interaction logic from the logic that handles user interface events. I think it would also be very helpful to add comments to clarify areas that are not straightforward.
+
+I appreciate how the author implemented the use of group boxes and radio buttons. It makes the user interface clearer by it's well-organized structure. It is easier for users to engage with and browser due to the inclusion of radio buttons for the various search possibilities.
