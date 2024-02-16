@@ -1,0 +1,54 @@
+Code review for Andrew Foster:
+Anna Stefanacci
+
+Code Compilation and Warnings:
+
+- I recieved no warnings, but the listBox results did not show up for me, I do use 2022 visual studios. I am not sure if that it a fault of mine, but I believe it is. Therefore I am making my review based on Form1 and displayForm's code. 
+
+Readability and Documentation:
+
+- I would recommend adding comments to your code. While the variables and code were easy enough to understand, adding comments would greatly improve readability
+
+Repetitive Code and Dead Code:
+
+- There were a few lines of repetitive code when checking if a specific radio button was checked off or not. 
+- There are no instances of dead code.
+
+Software Defects and Testing:
+
+- I had an issue running it, as there weren't any results popping up under resultsList. I will have to make my review based on the coding itself because I believe it is a "me" problem. 
+
+Appropriateness of Framework and Code Usage:
+
+- All of the code seems to match and correspond to radio buttons, buttons, etc.. The use of the forms is correct as well as the data retrieval. 
+
+Constructive Feedback:
+
+- I think you did a wonderful job based off what I could see. I would add comments moving forward to help readbility as well as develop a way to decrease repetitivenessin code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
